@@ -18,6 +18,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/addon.d/99-magisk.sh:system/addon.d/99-magisk.sh \
     vendor/xiaomi/oxygen/proprietary/app/magisk/magisk.apk:system/app/magisk/magisk.apk \
     vendor/xiaomi/oxygen/proprietary/app/substratum/substratum.apk:system/app/substratum/substratum.apk \
+    vendor/xiaomi/oxygen/proprietary/app/AdAway/AdAway.apk:system/app/AdAway/AdAway.apk \
+vendor/xiaomi/oxygen/proprietary/app/LINK2SD/LINK2SD.apk:system/app/LINK2SD/LINK2SD.apk \
+vendor/xiaomi/oxygen/proprietary/app/rootexplorer/rootexplorer.apk:system/app/rootexplorer/rootexplorer.apk \
+vendor/xiaomi/oxygen/proprietary/app/TTPod/TTPod.apk:system/app/TTPod/TTPod.apk \
     vendor/xiaomi/oxygen/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/xiaomi/oxygen/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/xiaomi/oxygen/proprietary/bin/cnd:system/bin/cnd \
