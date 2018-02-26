@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
 vendor/xiaomi/oxygen/proprietary/app/LINK2SD/LINK2SD.apk:system/app/LINK2SD/LINK2SD.apk \
 vendor/xiaomi/oxygen/proprietary/app/rootexplorer/rootexplorer.apk:system/app/rootexplorer/rootexplorer.apk \
 vendor/xiaomi/oxygen/proprietary/app/TTPod/TTPod.apk:system/app/TTPod/TTPod.apk \
-vendor/xiaomi/oxygen/proprietary/app/Google Chrome/Google Chrome.apk:system/app/Google Chrome/Google Chrome.apk \
     vendor/xiaomi/oxygen/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/xiaomi/oxygen/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/xiaomi/oxygen/proprietary/bin/cnd:system/bin/cnd \
